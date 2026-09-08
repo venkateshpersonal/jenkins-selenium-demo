@@ -22,8 +22,7 @@ public class ExampleTitleTest {
 
         String actualTitle = driver.getTitle();
 
-        Assert.assertEquals(actualTitle, "Example Domain");
-    }
+Assert.assertEquals(actualTitle, "Wrong Title");    }
 
     @AfterMethod
     public void tearDown() {
