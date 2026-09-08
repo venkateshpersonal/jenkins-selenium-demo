@@ -4,6 +4,7 @@
     <test name="Google Title Test">
         <classes>
             <class name="tests.GoogleTitleTest" />
+            <class name="tests.ExampleTitleTest" />
         </classes>
     </test>
 </suite>
