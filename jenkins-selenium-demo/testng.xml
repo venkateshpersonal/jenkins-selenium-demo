@@ -5,6 +5,7 @@
         <classes>
             <class name="tests.GoogleTitleTest" />
             <class name="tests.ExampleTitleTest" />
+            <class name="tests.BingTitleTest" />
         </classes>
     </test>
 </suite>
