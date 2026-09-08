@@ -22,8 +22,7 @@ public class BingTitleTest {
 
         String actualTitle = driver.getTitle();
 
-        Assert.assertEquals(actualTitle, "Bing");
-    }
+Assert.assertEquals(actualTitle, "Search - Microsoft Bing");    }
 
     @AfterMethod
     public void tearDown() {
