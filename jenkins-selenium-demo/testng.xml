@@ -6,6 +6,7 @@
             <class name="tests.GoogleTitleTest" />
             <class name="tests.ExampleTitleTest" />
             <class name="tests.BingTitleTest" />
+            <class name="tests.WikipediaTitleTest" />
         </classes>
     </test>
 </suite>
