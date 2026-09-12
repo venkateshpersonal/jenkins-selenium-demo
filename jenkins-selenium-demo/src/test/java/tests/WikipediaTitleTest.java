@@ -25,6 +25,7 @@ public class WikipediaTitleTest {
         Assert.assertEquals(actualTitle, "Wikipedia");
     }
 
+    //new build trigger test
     @AfterMethod
     public void tearDown() {
         driver.quit();
